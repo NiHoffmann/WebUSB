@@ -8,6 +8,6 @@ npm i
 npm run build
 ```
 ```shell
-npm run server
+npm start
 ```
 
